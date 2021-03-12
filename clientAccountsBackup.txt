@@ -1,0 +1,6 @@
+C1,Carl,400
+C2,Johnson,500
+S1,Mary,600
+S2,Jane,700
+B1,CJ Shop,10000
+B2,Monet Laundry,100000000
