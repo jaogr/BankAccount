@@ -1,0 +1,5 @@
+Carl(C1) to CJ Shop(B1): 299,00 at 12/03/2021 14:44
+Carl(C1) to Jane(S2): 1,00 at 12/03/2021 14:44
+Monet Laundry(B2) to Carl(C1): 90000,00 at 12/03/2021 14:45
+Mary(S1) to Jane(S2): 3,00 at 12/03/2021 14:46
+Carl(C1) to Johnson(C2): 9300,00 at 12/03/2021 14:46
